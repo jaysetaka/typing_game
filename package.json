@@ -1,5 +1,5 @@
 {
-  "name": "wordbeater",
+  "name": "typing_game",
   "version": "1.0.0",
   "description": "Speed typing game written in vanilla JS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "jabulani",
   "license": "MIT",
-  "homepage": "https://bradtraversy.github.io/wordbeater",
+  "homepage": "https://jaysetaka.github.io/typing_game",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
